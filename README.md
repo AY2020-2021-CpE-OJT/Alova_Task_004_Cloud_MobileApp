@@ -17,7 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screenshots of the Mobile Application's Pages and Pop Ups
 1. List of contacts and add a contact by pressing the add button:
+
 ![](https://github.com/AY2020-2021-CpE-OJT/Alova_Task_004_Cloud_MobileApp/blob/images/Mobile%20App%20Navigation%20Screenshots/1_contactListDisplay.jpg)
+
 2. Entry form for adding a contact:
 ![](https://github.com/AY2020-2021-CpE-OJT/Alova_Task_004_Cloud_MobileApp/blob/images/Mobile%20App%20Navigation%20Screenshots/2_createContactEntryForm.jpg)
 3. A pop up dialog appears telling that a contact has been added:
